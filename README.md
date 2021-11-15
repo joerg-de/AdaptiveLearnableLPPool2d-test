@@ -12,6 +12,8 @@ All tests where made with shufflenet_v2_x0_5 as test data imagenet was used but 
 
 ### Results
 
+All graphs starts at epoch 3 and end at epoch 89
+
 Acc1 was around 1.9 % better and Acc5 around 1.5 %
 
 Acc1 while Learning:
